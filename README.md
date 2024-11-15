@@ -95,7 +95,7 @@ Use Postman or any other tool to send a POST request:
 **Body**:
 ```json
 {
-    "name": "paneer-sabji, puri",
+    "name": "dhosa-sambhar",
     "qty": 5,
     "price": 589.02
 }
