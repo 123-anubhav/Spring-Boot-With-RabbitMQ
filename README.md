@@ -59,10 +59,6 @@ Add the following configuration in your `application.properties` file:
 ```properties
 server.port=8081
 
-# RabbitMQ Configuration
-online.experiencedeveloper.queue=experiencedeveloper_queue
-online.experiencedeveloper.exchange=experiencedeveloper_exchange
-online.experiencedeveloper.routingKey=experiencedeveloper_routingKey
 ```
 
 ---
